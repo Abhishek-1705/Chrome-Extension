@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.otbox{
+    height: 300px;
+    width: 450px;
+    border: rgb(49, 49, 180) 5px solid;
+}
+
+#quote{
+    margin: 20px;
+    height: 50%;
+    width: auto;
+    border: orange solid 10px;
+    border-radius: 20px;
+    padding: 20px;
+    padding-top: 60px;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+
+}
+
+

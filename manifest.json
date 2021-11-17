@@ -1,0 +1,14 @@
+{
+    "name": "QUOTES",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "Extension.html",
+        "default_icon": "Photo&icons/logo_2_16.png"
+    },
+    "icons": {
+        "64":"Photo&icons/logo_64.png",
+        "128":"Photo&icons/logo_128.png"
+    },
+    "description": " This chrome extensions is Made by Abhishek Malviya for FUN and for the porpose of learning , this extensions call an Free Qutoes API and shows Qoutes as popup "
+}
