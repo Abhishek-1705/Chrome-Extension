@@ -6,4 +6,4 @@ Tech Stack used:-
          ▪ JAVASCRIPT
          ▪ API
 A special Thanks to ANUJ BHAIYA for helping throught this video.
-         
+*A sorry or not making a good fontend for this project        
